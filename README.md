@@ -48,7 +48,7 @@ You'll need Node.js 18 or newer and a Discord application with a bot. Sellauth c
 6. Give it permission to manage channels, view and send messages, read message history, embed links, and attach files. It also needs **Manage Roles** if you use verification or autoroles.
 7. Run `npm start`.
 
-The bot creates `data/verified_users.json` when it needs to store a verified user and order ID. Transcripts can contain private support conversations, so keep the transcript channel restricted to the right people. Keep `.env`, `data/verified_users.json`, and generated transcripts out of public uploads.
+The bot creates `data/verified_users.json` when it needs to store a verified user and order ID. That file contains Discord user IDs and order IDs. Transcripts are saved in `transcripts/` and can contain private support conversations. Check them and make sure they're okay to share before publishing them. Keep `.env` private.
 
 ## License
 
