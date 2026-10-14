@@ -56,6 +56,10 @@ The code is kept relatively clear and structured on purpose.
 Since this bot is open source, the goal is that other people can easily understand and adapt it rather than writing it as compact as possible. I Only use AI for the README.md ! The Code is fully Selfmade!
 Previously worked at a large reselling service from 2023–2025!
 
+## Support
+
+Message me on Discord. Username: mc.sell
+
 ## License
 
 This project is licensed under the GNU General Public License v3.0. See [LICENSE](LICENSE) for the full license text.
