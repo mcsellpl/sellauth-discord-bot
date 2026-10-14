@@ -50,6 +50,12 @@ You'll need Node.js 18 or newer and a Discord application with a bot. Sellauth c
 
 The bot creates `data/verified_users.json` when it needs to store a verified user and order ID. That file contains Discord user IDs and order IDs. Transcripts are saved in `transcripts/` and can contain private support conversations. Check them and make sure they're okay to share before publishing them. Keep `.env` private.
 
+## Code style
+
+The code is kept relatively clear and structured on purpose.  
+Since this bot is open source, the goal is that other people can easily understand and adapt it rather than writing it as compact as possible. I Only use AI for the README.md ! The Code is fully Selfmade!
+Previously worked at a large reselling service from 2023–2025!
+
 ## License
 
 This project is licensed under the GNU General Public License v3.0. See [LICENSE](LICENSE) for the full license text.
