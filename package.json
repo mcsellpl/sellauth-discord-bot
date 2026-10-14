@@ -1,0 +1,20 @@
+{
+  "name": "mcsellbot",
+  "version": "1.0.0",
+  "description": "Discord support bot for MCSell with ticket management and Sellauth order checks.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "author": "MCSELL",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "chalk": "^4.1.2",
+    "discord.js": "^14.25.1",
+    "dotenv": "^16.4.5",
+    "fs-extra": "^11.2.0",
+    "html-entities": "^2.5.2"
+  }
+}
